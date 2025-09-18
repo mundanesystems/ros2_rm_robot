@@ -5,4 +5,4 @@ bool follow
 float32 expand
 uint8 dof
 uint8 trajectory_mode
-uint8 radio
+uint16 radio
